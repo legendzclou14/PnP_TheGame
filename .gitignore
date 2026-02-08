@@ -1,0 +1,36 @@
+# Directories
+# Temporary build/output directories
+bin
+obj
+Build
+BuildReports
+Builds
+StreamingAssets
+Library
+palette-library
+Logs
+MemoryCaptures
+Temp
+SavesDir
+UserSettings
+
+# IDE/Editor specific directories (Visual Studio/VS Code)
+.vs
+.vscode
+
+# File Extensions
+# Solution and project files (often regenerated or not needed for Git tracking)
+*.suo
+*.user
+*.sln
+*.csproj
+*.vsconfig
+
+# Operating system files
+*.DS_Store
+
+# Log files
+*.log
+
+# Specific Files
+BuildReports.meta
